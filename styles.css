@@ -1,0 +1,12 @@
+div {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(40px 40px 50px black);
+    border-radius: 100%;
+}
+img {
+    height: 400px;
+    filter: invert(100%);
+    filter: hue-rotate(90deg);
+}
